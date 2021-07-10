@@ -1,0 +1,35 @@
+{
+    "Productos": [
+     {
+        "id":1,
+        "name" : "SWEATER 'Celia'",
+        "price": 3500,
+        "material": "Pura lana.",
+        "description": "Confeccionado en lana merino con tinturas naturales.",
+        "picture": "https://www.telaresdelpilar.com.ar/wp-content/uploads/2020/10/celia2.jpeg"
+      },
+      {
+        "id":2,
+        "name": "PONCHO  'Andy'",
+        "price": 3900,
+        "material": "Algodón flame.",
+        "description": "Confeccionado en hilo de algodon flame natural teñido con tinturas naturales.",
+        "picture": "https://www.telaresdelpilar.com.ar/wp-content/uploads/2020/10/andy2.jpg"
+      },
+     {
+        "id":3,
+        "name": "REMERA 'Nany'",
+        "price": 2500,
+        "material": "Hilo de algodón.",
+        "description": "Confeccionado en hilo de algodón natural coloreado con tinturas naturales y con terminaciones a mano.",
+        "picture":"https://www.telaresdelpilar.com.ar/wp-content/uploads/2020/10/nany2.jpeg"      },
+     {
+        "id":4,
+         "name": "SACO 'Puro'",
+        "price": 4500,
+        "material": "algodon sedificado",
+        "description": "Confeccionado en hilo sedificado con terminaciones a  mano. Sólo en color natural.",
+        "picture": "https://www.telaresdelpilar.com.ar/wp-content/uploads/2020/10/puro2.jpeg"
+      }
+    ]
+  }
